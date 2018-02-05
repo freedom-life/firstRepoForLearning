@@ -7,4 +7,4 @@ listName.extend(listShow)
 listName.insert(5,'爱')
 print(listShow)
 print(listName)
-print('大爷的数量:',listName.count('大爷'),'列表的数量:',listName
+print('大爷的数量:',listName.count('大爷'),'列表的数量:',listName)
