@@ -9,4 +9,5 @@ print(listShow)
 print(listName)
 print('大爷的数量:',listName.count('大爷'),'列表的数量:',listName)
 print(22222222)
-print(value, ___, ', end='\n', file=sys_stdout, flush=False)
+print('淡定')
+
