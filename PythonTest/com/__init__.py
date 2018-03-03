@@ -61,12 +61,14 @@ print(f)
 
 '''创建字典'''
 #第一种方法 data={}
-mood = {"happy","sad","angry","blue","anxiety"}
+mood = {"happy":22,"sad":34,"angry":"DUUF","blue":"00","anxiety":"799"}
 #第二种方法 data=dict()
-mood = dict("happy","sad","angry","blue","anxiety")
+mood1 = dict()
+mood1["iii"] = "ooo"
 #两者有什么区别？？？
-
-
+print(mood["happy"],mood1["iii"])
+data = ["Monday","Thursday"]
+print(data)
 
 
     
